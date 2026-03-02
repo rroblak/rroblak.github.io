@@ -4,7 +4,8 @@
     "namespace": "android_app",
     "package_name": "io.github.rroblak.monkeymind",
     "sha256_cert_fingerprints": [
-      "D2:27:25:65:FA:CC:7F:BB:8C:00:8D:3C:52:97:D4:4A:1C:99:CA:89:74:87:89:9E:B7:96:41:88:C2:F2:70:58"
+      "D2:27:25:65:FA:CC:7F:BB:8C:00:8D:3C:52:97:D4:4A:1C:99:CA:89:74:87:89:9E:B7:96:41:88:C2:F2:70:58",
+      "D3:3F:B5:DE:C1:69:D9:A6:09:E6:87:19:AD:84:4C:CD:1E:FB:6D:52:92:7D:52:3D:E6:A8:4F:3A:3D:A8:B3:BA"
     ]
   }
 }]
