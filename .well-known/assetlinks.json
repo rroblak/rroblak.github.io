@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.rroblak.monkeymind",
+    "sha256_cert_fingerprints": [
+      "D2:27:25:65:FA:CC:7F:BB:8C:00:8D:3C:52:97:D4:4A:1C:99:CA:89:74:87:89:9E:B7:96:41:88:C2:F2:70:58"
+    ]
+  }
+}]
